@@ -1,0 +1,15 @@
+{
+  "name": "webpoc",
+  "version": "1.0.0",
+  "main": "webpoc.js",
+  "repository": "git@github.com:abelcha/webpoc.git",
+  "author": "Abel <abel.chalier@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "lodash": "^4.17.20",
+    "minimist": "^1.2.5",
+    "node-watch": "^0.6.4",
+    "watch-glob": "^0.1.3"
+  }
+}
